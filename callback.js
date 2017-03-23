@@ -3,7 +3,7 @@
 ​/*We will later pass the method as a callback function to another function​/*  */
 =======
 ​/*We will later pass the method as a callback function to another function​/**/
->>>>>>> HEAD
+>>>>>>> 83b72b307102459a1f323b753a66e1ff27a23ca9
 ​var clientData = {
     id: 094545,
     fullName: "Not Set",
