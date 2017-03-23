@@ -1,9 +1,4 @@
-// Define an object with some properties and a method​
-<<<<<<< HEAD
-​/*We will later pass the method as a callback function to another function​/*  */
-=======
-​/*We will later pass the method as a callback function to another function​/**/
->>>>>>> 83b72b307102459a1f323b753a66e1ff27a23ca9
+
 ​var clientData = {
     id: 094545,
     fullName: "Not Set",
