@@ -1,5 +1,9 @@
 // Define an object with some properties and a method​
+<<<<<<< HEAD
 ​/*We will later pass the method as a callback function to another function​/*  */
+=======
+​/*We will later pass the method as a callback function to another function​/**/
+>>>>>>> HEAD
 ​var clientData = {
     id: 094545,
     fullName: "Not Set",
