@@ -5,11 +5,6 @@ FROM ubuntu
 RUN rm /bin/sh && ln -s /bin/bash /bin/sh
 
 RUN apt-get update && apt-get install -y \
-  build-essential \
-  python-pip \
-  curl \
-  wget \
-  && curl -sL https://deb.nodesource.com/setup_6.x | bash - \
   && apt-get install -y nodejs \
   && rm -rf /var/lib/apt/lists/* \
   && apt-get -y autoclean \
