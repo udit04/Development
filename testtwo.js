@@ -5,7 +5,7 @@ var expect = require('chai').expect,
 describe("hello sample test",function(){
 	it("must return Hello World", function(done) {
 		base_url.hello(function(reply){
-			expect(reply).to.be.equal("Hello World test111");
+			expect(reply).to.be.equal("Hello World test112");
 			done();
 		});
     });
