@@ -14,7 +14,8 @@ RUN apt-get update && apt-get install -y \
   && apt-get -y autoclean \
   && npm update -g npm \
   && npm install pm2 -g \
-  && npm install mocha -g
+  && npm install mocha -g \
+  && npm install chai -g
 
 RUN npm install
 
