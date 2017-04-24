@@ -7,7 +7,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha test*",
     "start": "app.js"
   },
   "repository": {

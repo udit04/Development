@@ -32,5 +32,4 @@ build:
     - script:
         name: echo nodejs information
         code: |
-          mocha test*
           echo "npm version $(npm -v) running"
